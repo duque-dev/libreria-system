@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27562ee2-71f4-4d8b-823a-bafdd174637c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/book/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/book/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/app-service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/book/applications/app-service/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/app-service/src/main/java/co/com/book/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/applications/app-service/src/main/java/co/com/book/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/app-service/src/main/java/co/com/book/config/UseCasesConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/book/applications/app-service/src/main/java/co/com/book/config/UseCasesConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/app-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/book/applications/app-service/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/app-service/src/main/resources/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/book/applications/app-service/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/app-service/src/test/java/co/com/book/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/book/applications/app-service/src/test/java/co/com/book/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/book/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/book/deployment/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/model/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/book/domain/model/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/usecase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/book/domain/usecase/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/book/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/book/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/book/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/book/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/book/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lombok.config" beforeDir="false" afterPath="$PROJECT_DIR$/book/lombok.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/book/main.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabServerManager">
+    <selected>-1</selected>
+    <servers />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2jwRuiVkfuJ8qKE6tZzUOYyY4gV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alison\IdeaProjects\libreria-system\book" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27562ee2-71f4-4d8b-823a-bafdd174637c" name="Changes" comment="" />
+      <created>1722296381661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722296381661</updated>
+    </task>
+    <servers />
+  </component>
+</project>
